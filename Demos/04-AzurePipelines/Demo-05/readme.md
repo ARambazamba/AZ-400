@@ -1,4 +1,4 @@
-# Custom Build Agent
+# Configure a self hosted agent on an Azure Windows VM
 
 [Self-hosted Windows agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/v2-windows?view=azure-devops)
 

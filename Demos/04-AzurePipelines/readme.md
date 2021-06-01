@@ -4,11 +4,11 @@
 
 ## Demos
 
-- .Net 5 Build Designer
-- .Net 5 Bulid Yaml
-- .Net 5 Deployment to App Service
-- Github Service Connection
-- Azure VM as custom Build Agent
+-   .Net 5 Build Designer
+-   .Net 5 Bulid Yaml
+-   .Net 5 Deployment to App Service
+-   Use Github Service Connection
+-   Configure a self hosted agent on an Azure Windows VM
 
 ## Azure DevOps CLI
 
